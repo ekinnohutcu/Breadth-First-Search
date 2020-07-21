@@ -1,0 +1,30 @@
+From 0. laptop to 0. laptop ==>  Hop distance is: 0
+0
+From 0. laptop to 1. laptop ==>  Hop distance is: 1
+0-->1
+From 0. laptop to 2. laptop ==>  Hop distance is: 2
+0-->1-->2
+From 0. laptop to 3. laptop ==>  Hop distance is: 3
+0-->1-->2-->3
+From 0. laptop to 4. laptop ==>  Hop distance is: 4
+0-->1-->2-->3-->4
+From 0. laptop to 5. laptop ==>  Hop distance is: 2
+0-->1-->5
+From 0. laptop to 6. laptop ==>  Hop distance is: 3
+0-->1-->5-->6
+From 0. laptop to 7. laptop ==>  Hop distance is: 3
+0-->1-->2-->7
+From 0. laptop to 8. laptop ==>  Hop distance is: 5
+0-->1-->2-->3-->4-->8
+From 0. laptop to 9. laptop ==>  Hop distance is: 4
+0-->1-->5-->6-->9
+From 0. laptop to 10. laptop ==>  Hop distance is: 5
+0-->1-->5-->6-->9-->10
+From 0. laptop to 11. laptop ==>  Hop distance is: 6
+0-->1-->2-->3-->4-->8-->11
+From 0. laptop to 12. laptop ==>  Hop distance is: 7
+0-->1-->2-->3-->4-->8-->11-->12
+From 0. laptop to 13. laptop ==>  Hop distance is: 0
+0
+From 0. laptop to 14. laptop ==>  Hop distance is: 8
+0-->1-->2-->3-->4-->8-->11-->12-->14
